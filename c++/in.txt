@@ -1,21 +1,25 @@
-2
-4
-mamao 2.19
-cebola 3.10
-tomate 2.80
-uva 2.73
-3
-mamao 2
-tomate 1
-uva 3
-5
-morango 6.70
-repolho 1.12
-brocolis 1.71
-tomate 2.80
-cebola 2.81
-4
-brocolis 2
-tomate 1
-cebola 1
-morango 1
+7 4
+administer 100000
+spending 200000
+manage 50000
+responsibility 25000
+expertise 100
+skill 50
+money 75000
+the incumbent will administer the
+spending of kindergarden milk money
+and exercise responsibility for making
+change he or she will share
+responsibility for the task of managing 
+the money with the assistant
+whose skill and expertise shall ensure
+the successful spending exercise
+.
+this individual must have the skill to 
+perform a heart transplant and
+expertise in rocket science
+.
+skill skill skill
+.
+expertise expertise expertise expertise expertise
+.
