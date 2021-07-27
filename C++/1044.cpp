@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+
+int main(int argc, char const *argv[]){
+  int a, b, aux;
+  cin >> a >> b;
+  if(a < b){
+    aux = a;
+    a = b;
+    b = aux;
+  }
+  if(a%b == 0) cout << "Sao Multiplos" << endl;
+  else cout << "Nao sao Multiplos" << endl;
+  return 0;
+}
