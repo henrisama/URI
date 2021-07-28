@@ -12,7 +12,6 @@ using namespace std;
 bool isPrime(int num){
   int _sqrt = sqrt(num);
   bool div;
-  long long int
 
   div = true;
   for (int i = 2; i < _sqrt; i++){
